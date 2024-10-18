@@ -1,0 +1,4 @@
+Push: veri ekle
+Pop : veri çıkarma
+getCount(): stack büyüklüğünü görme
+
